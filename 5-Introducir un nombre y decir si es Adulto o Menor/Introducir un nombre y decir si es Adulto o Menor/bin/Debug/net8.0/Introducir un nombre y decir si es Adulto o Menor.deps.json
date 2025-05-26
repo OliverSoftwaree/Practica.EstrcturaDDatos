@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Introducir un nombre y decir si es Adulto o Menor/1.0.0": {
+        "runtime": {
+          "Introducir un nombre y decir si es Adulto o Menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducir un nombre y decir si es Adulto o Menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
