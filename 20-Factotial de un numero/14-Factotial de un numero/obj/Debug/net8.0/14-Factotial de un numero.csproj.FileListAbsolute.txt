@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\bin\Debug\net8.0\14-Factotial de un numero.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\bin\Debug\net8.0\14-Factotial de un numero.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\bin\Debug\net8.0\14-Factotial de un numero.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\bin\Debug\net8.0\14-Factotial de un numero.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\bin\Debug\net8.0\14-Factotial de un numero.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\refint\14-Factotial de un numero.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\14-Factotial de un numero.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\14-Factotial de un numero\14-Factotial de un numero\obj\Debug\net8.0\ref\14-Factotial de un numero.dll

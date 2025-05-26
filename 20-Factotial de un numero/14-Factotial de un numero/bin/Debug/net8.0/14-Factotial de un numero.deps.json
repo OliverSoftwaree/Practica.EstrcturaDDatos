@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "14-Factotial de un numero/1.0.0": {
+        "runtime": {
+          "14-Factotial de un numero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14-Factotial de un numero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
