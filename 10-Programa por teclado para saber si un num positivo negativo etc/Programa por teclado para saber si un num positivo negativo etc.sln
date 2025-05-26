@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa por teclado para saber si un num positivo negativo etc", "Programa por teclado para saber si un num positivo negativo etc\Programa por teclado para saber si un num positivo negativo etc.csproj", "{86066773-7604-4C1D-A426-AB52B1526831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86066773-7604-4C1D-A426-AB52B1526831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86066773-7604-4C1D-A426-AB52B1526831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86066773-7604-4C1D-A426-AB52B1526831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86066773-7604-4C1D-A426-AB52B1526831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9122A4BC-BB84-428F-BC25-4CCD17B72610}
+	EndGlobalSection
+EndGlobal
