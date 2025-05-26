@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\bin\Debug\net8.0\Multiplicacion de Enteros.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\bin\Debug\net8.0\Multiplicacion de Enteros.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\bin\Debug\net8.0\Multiplicacion de Enteros.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\bin\Debug\net8.0\Multiplicacion de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\bin\Debug\net8.0\Multiplicacion de Enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\refint\Multiplicacion de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\Multiplicacion de Enteros.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Multiplicacion de Enteros\Multiplicacion de Enteros\obj\Debug\net8.0\ref\Multiplicacion de Enteros.dll

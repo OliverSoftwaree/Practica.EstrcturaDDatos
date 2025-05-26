@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\bin\Debug\net8.0\Division de Enteros.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\bin\Debug\net8.0\Division de Enteros.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\bin\Debug\net8.0\Division de Enteros.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\bin\Debug\net8.0\Division de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\bin\Debug\net8.0\Division de Enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\refint\Division de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\Division de Enteros.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Division de Enteros\Division de Enteros\obj\Debug\net8.0\ref\Division de Enteros.dll

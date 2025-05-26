@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\bin\Debug\net8.0\Resta de Enteros.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\bin\Debug\net8.0\Resta de Enteros.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\bin\Debug\net8.0\Resta de Enteros.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\bin\Debug\net8.0\Resta de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\bin\Debug\net8.0\Resta de Enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\refint\Resta de Enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\Resta de Enteros.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Resta de Enteros\Resta de Enteros\obj\Debug\net8.0\ref\Resta de Enteros.dll

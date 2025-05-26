@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\bin\Debug\net8.0\Suma de enteros.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\bin\Debug\net8.0\Suma de enteros.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\bin\Debug\net8.0\Suma de enteros.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\bin\Debug\net8.0\Suma de enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\bin\Debug\net8.0\Suma de enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\refint\Suma de enteros.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\Suma de enteros.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Suma de enteros\Suma de enteros\obj\Debug\net8.0\ref\Suma de enteros.dll

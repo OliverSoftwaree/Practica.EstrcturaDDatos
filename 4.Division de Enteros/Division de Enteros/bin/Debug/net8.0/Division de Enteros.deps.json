@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Division de Enteros/1.0.0": {
+        "runtime": {
+          "Division de Enteros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Division de Enteros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
