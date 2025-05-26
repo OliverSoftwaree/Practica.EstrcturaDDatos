@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "17-Programa que sume los digistos/1.0.0": {
+        "runtime": {
+          "17-Programa que sume los digistos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17-Programa que sume los digistos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

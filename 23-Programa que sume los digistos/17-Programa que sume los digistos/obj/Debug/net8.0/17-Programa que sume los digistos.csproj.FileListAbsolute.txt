@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\bin\Debug\net8.0\17-Programa que sume los digistos.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\bin\Debug\net8.0\17-Programa que sume los digistos.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\bin\Debug\net8.0\17-Programa que sume los digistos.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\bin\Debug\net8.0\17-Programa que sume los digistos.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\bin\Debug\net8.0\17-Programa que sume los digistos.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\refint\17-Programa que sume los digistos.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\17-Programa que sume los digistos.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\17-Programa que sume los digistos\17-Programa que sume los digistos\obj\Debug\net8.0\ref\17-Programa que sume los digistos.dll
