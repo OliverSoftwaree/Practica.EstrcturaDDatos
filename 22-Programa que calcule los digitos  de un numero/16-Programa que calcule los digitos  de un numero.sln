@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Programa que calcule los digitos  de un numero", "16-Programa que calcule los digitos  de un numero\16-Programa que calcule los digitos  de un numero.csproj", "{07D588AC-31D7-4017-A7D2-E373DB45A686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D588AC-31D7-4017-A7D2-E373DB45A686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D588AC-31D7-4017-A7D2-E373DB45A686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D588AC-31D7-4017-A7D2-E373DB45A686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D588AC-31D7-4017-A7D2-E373DB45A686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C181F5C-8430-4E50-8FD0-0467F603136B}
+	EndGlobalSection
+EndGlobal
