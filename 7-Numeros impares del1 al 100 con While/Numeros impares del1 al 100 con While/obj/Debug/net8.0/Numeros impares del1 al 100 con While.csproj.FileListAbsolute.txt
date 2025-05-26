@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\bin\Debug\net8.0\Numeros impares del1 al 100 con While.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\bin\Debug\net8.0\Numeros impares del1 al 100 con While.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\bin\Debug\net8.0\Numeros impares del1 al 100 con While.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\bin\Debug\net8.0\Numeros impares del1 al 100 con While.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\bin\Debug\net8.0\Numeros impares del1 al 100 con While.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\refint\Numeros impares del1 al 100 con While.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\Numeros impares del1 al 100 con While.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numeros impares del1 al 100 con While\Numeros impares del1 al 100 con While\obj\Debug\net8.0\ref\Numeros impares del1 al 100 con While.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Numeros impares del1 al 100 con While/1.0.0": {
+        "runtime": {
+          "Numeros impares del1 al 100 con While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeros impares del1 al 100 con While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Programa que diga si es un numero perfecto o no/1.0.0": {
+        "runtime": {
+          "Programa que diga si es un numero perfecto o no.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa que diga si es un numero perfecto o no/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

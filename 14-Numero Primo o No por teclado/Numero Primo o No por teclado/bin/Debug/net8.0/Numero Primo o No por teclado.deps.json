@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Numero Primo o No por teclado/1.0.0": {
+        "runtime": {
+          "Numero Primo o No por teclado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numero Primo o No por teclado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

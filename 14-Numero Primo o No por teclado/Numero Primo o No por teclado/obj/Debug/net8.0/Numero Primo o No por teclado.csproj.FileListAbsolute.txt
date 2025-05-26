@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\bin\Debug\net8.0\Numero Primo o No por teclado.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\bin\Debug\net8.0\Numero Primo o No por teclado.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\bin\Debug\net8.0\Numero Primo o No por teclado.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\bin\Debug\net8.0\Numero Primo o No por teclado.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\bin\Debug\net8.0\Numero Primo o No por teclado.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\refint\Numero Primo o No por teclado.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\Numero Primo o No por teclado.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Numero Primo o No por teclado\Numero Primo o No por teclado\obj\Debug\net8.0\ref\Numero Primo o No por teclado.dll

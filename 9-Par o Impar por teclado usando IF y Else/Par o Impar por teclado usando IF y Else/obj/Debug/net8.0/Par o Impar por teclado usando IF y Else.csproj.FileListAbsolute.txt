@@ -1,0 +1,14 @@
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\bin\Debug\net8.0\Par o Impar por teclado usando IF y Else.exe
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\bin\Debug\net8.0\Par o Impar por teclado usando IF y Else.deps.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\bin\Debug\net8.0\Par o Impar por teclado usando IF y Else.runtimeconfig.json
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\bin\Debug\net8.0\Par o Impar por teclado usando IF y Else.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\bin\Debug\net8.0\Par o Impar por teclado usando IF y Else.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.AssemblyInfoInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.AssemblyInfo.cs
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.csproj.CoreCompileInputs.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\refint\Par o Impar por teclado usando IF y Else.dll
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.pdb
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\Par o Impar por teclado usando IF y Else.genruntimeconfig.cache
+C:\Users\OLIVER\OneDrive\Escritorio\Practica\Par o Impar por teclado usando IF y Else\Par o Impar por teclado usando IF y Else\obj\Debug\net8.0\ref\Par o Impar por teclado usando IF y Else.dll
